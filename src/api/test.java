@@ -29,8 +29,9 @@ public class test {
 
 		System.out.println("새로운 내용을 추가");
 		System.out.println("또 새로운 내용을 추가");
-
-		System.out.println("또 새로운 내용을 추가");
+		System.out.println("진짜 마지막으로 새로운 내용을 추가");
+		
+		
 	}
 	
 
