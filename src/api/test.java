@@ -28,6 +28,9 @@ public class test {
 		System.out.println("프로그램 종료");
 
 		System.out.println("새로운 내용을 추가");
+		System.out.println("또 새로운 내용을 추가");
+
+		System.out.println("또 새로운 내용을 추가");
 	}
 	
 
